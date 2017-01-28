@@ -1,0 +1,3 @@
+group	name
+0	NBM
+1	IDH2mut
