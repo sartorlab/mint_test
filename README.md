@@ -19,3 +19,25 @@ Based on [GSE52945](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52945)
 ### Pulldown
 
 This data is going to be based on IP methods measuring 5mC and 5hmC.
+
+## Test data mappings
+
+```
+bisulfite_samples:
+    IDH2mut_1_errbs : 6000
+    IDH2mut_2_errbs : 6001
+    NBM_1_errbs : 6002
+    NBM_2_errbs : 6003
+```
+
+```
+pulldown_samples:
+    IDH2mut_1_hmeseal : 7000
+    IDH2mut_2_hmeseal : 7001
+    NBM_1_hmeseal : 7002
+    NBM_2_hmeseal : 7003
+    IDH2mut_1_hmeseal_input : 7004
+    IDH2mut_2_hmeseal_input : 7005
+    NBM_1_hmeseal_input : 7006
+    NBM_2_hmeseal_input : 7007
+```
